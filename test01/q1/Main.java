@@ -1,4 +1,4 @@
-package test01.q1;
+package q1;
 
 
 /*
